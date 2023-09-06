@@ -1,5 +1,4 @@
 package parte2;
-
 public class Principal {
 
 	public Principal() {

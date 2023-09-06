@@ -23,4 +23,5 @@ public class Empresa {
 	public String getCNPJ() {
 		return this.cnpj;
 	}
+	
 }
