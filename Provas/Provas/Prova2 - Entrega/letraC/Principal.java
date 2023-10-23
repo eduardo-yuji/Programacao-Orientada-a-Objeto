@@ -17,7 +17,7 @@ public class Principal {
     lista.add(tipo);
     tipo = new  ASubclasseDobro(1,2,3,4,5);
     lista.add(tipo);
-       
+    
     for ( A a : lista ){
         System.out.println(a.getClass());
         System.out.println(a.a1());

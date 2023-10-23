@@ -1,14 +1,1 @@
-package Casa;
-public class Casa{//modelo
-	
-	public String cor;//atributo
-	public void portas(){//metodos
-	}	
-	public void janelas(){
-	}
-	
-	public static void main(String [] args){
-		Casa casa1 = new Casa();
-		casa1.portas();
-	}
-}
+https://docs.google.com/document/d/1sNe93xlG4r47sgczpKhj9Tjqo8-SCaPAADQ9iMpC9A0/edit

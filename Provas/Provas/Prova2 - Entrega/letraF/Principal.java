@@ -14,10 +14,9 @@ public class Principal {
                     super(mensagem);
               }
               
-              public MinhaExcecao(  ){
-              }
+              
     }
- 
+
 
     public void leitura() {
         Scanner entrada = new Scanner(System.in);
