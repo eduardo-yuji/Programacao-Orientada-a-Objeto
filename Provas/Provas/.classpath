@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="Prova2 - Entrega"/>
-	<classpathentry kind="src" path="Prova2/src"/>
-	<classpathentry kind="output" path="Prova2/build/classes"/>
-</classpath>
