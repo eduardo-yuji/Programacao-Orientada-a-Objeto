@@ -6,9 +6,9 @@ public class Principal {
 
 	
 	public interface IRoupa{
-		public String nome;
-		public String tamanho;
-		public double preco;
+		public abstract String nome;
+		public abstract String tamanho;
+		public abstract double preco;
 	}
 	
 	
