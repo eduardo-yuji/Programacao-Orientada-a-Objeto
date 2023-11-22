@@ -1,0 +1,4 @@
+10-10-1222|A|SEMANAL|aaaaaaaaa|1
+19-01-2024|DP|UNICO|arthurpetroli@alunos.utfpr.edu.br|1
+10-11-1010|aaaa|UNICO|aaaaaaaaaaaaaaaa|0
+12-11-4569|A|UNICO|B|1
